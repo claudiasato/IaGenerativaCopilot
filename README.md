@@ -1,0 +1,2 @@
+# IaGenerativaCopilot
+Utilizando Copilot.microsoft 
